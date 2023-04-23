@@ -2,7 +2,7 @@
 
 Dans ce didacticiel vous trouvez les diffenrents méthodes de machines learning et les methodes utilisées en utlisant les dataset suggérer par
 Le Center for Systems Science and Engineering (CSSE) at Johns Hopkins University afin de predire le probléme de Conoravirus selon les critéres suivant : 
- * Porteur de virus 
+ * Porteurs de virus 
  * Les deces 
  * Les gurisons 
  
