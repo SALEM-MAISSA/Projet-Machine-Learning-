@@ -1,7 +1,12 @@
 #Projet-Machine-Learning-
 
-Dans ce didacticiel vous trouvez les diffenrents méthodes de machines learning et les methodes utilisées en utlisant les dataset suggérer par
-Le Center for Systems Science and Engineering (CSSE) at Johns Hopkins University afin de predire le probléme de Conoravirus selon les critéres suivant : 
+Dans ce didacticiel vous trouvez les diffenrents méthodes de machines learning et les methodes utilisées tels que : 
+*la regression linéaire 
+*Neural Network 
+en utlisant les dataset suggérer par : 
+               - Le Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+
+ Afin de predire le probléme de Conoravirus selon les critéres suivant : 
  * Porteurs de virus 
  * Les deces 
  * Les gurisons 
