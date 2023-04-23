@@ -1,4 +1,4 @@
-#Projet-Machine-Learning-
+# Projet-Machine-Learning-
 
 Dans ce didacticiel vous trouvez les diffenrents méthodes de machines learning et les methodes utilisées tels que : 
 
@@ -13,6 +13,6 @@ En utlisant les dataset suggérer par :
  * Les deces 
  * Les gurisons 
  
- #Voici le lien de didacticiel :
+ # Voici le lien de didacticiel :
 
 https://docs.google.com/document/d/1ADrmkrcgM36CpUOGstEo_T546xnjedbCLrftUBk29XQ/edit?usp=sharing 
