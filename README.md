@@ -15,4 +15,4 @@ En utlisant les dataset suggérer par :
  
  # Voici le lien de didacticiel :
 
-https://docs.google.com/document/d/1ADrmkrcgM36CpUOGstEo_T546xnjedbCLrftUBk29XQ/edit?usp=sharing 
+https://docs.google.com/document/d/1ADrmkrcgM36CpUOGstEo_T546xnjedbCLrftUBk29XQ/edit?usp=sharing
